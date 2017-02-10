@@ -1,0 +1,12 @@
+{
+  "name": "webpack-migrating-from-v1-to-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/howdy39/webpack-migrating-from-v1-to-v2",
+  "author": "Tatsuya Nakano <admin@howdylikes.jp>",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "object-assign": "^4.1.1"
+  }
+}
