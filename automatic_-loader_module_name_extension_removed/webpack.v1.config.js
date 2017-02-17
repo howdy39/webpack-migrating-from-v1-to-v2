@@ -9,8 +9,7 @@ module.exports = {
     loaders: [
       {
         test: /\.css$/,
-        // loader: 'style-loader!css-loader'
-        loader: 'style!css' // 省略可能
+        loaders: ['style', 'css'] // -loaderを省略可能
       }
     ]
   }
