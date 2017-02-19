@@ -8,6 +8,9 @@
   "scripts": {},
   "devDependencies": {
     "css-loader": "^0.26.1",
+    "debug-loader": "0.0.1",
+    "eslint": "^3.15.0",
+    "eslint-loader": "^1.6.1",
     "json-loader": "^0.5.4",
     "object-assign": "^4.1.1",
     "style-loader": "^0.13.1"
